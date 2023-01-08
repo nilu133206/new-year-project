@@ -82,11 +82,12 @@ header .header-btn{
 
 }
 .about-list{
+  
     color: #444343;
     padding-left: 15px;
     text-align:left;
-    margin-top: 16px;
-    list-style:disc;
+    margin-top: 16px;   
+    list-style-image: url('../images/icons/check1.png');
     line-height: 30px;
 
 }
